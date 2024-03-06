@@ -19,7 +19,7 @@ This project involves setting up and managing the lifecycle of a support ticket 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [YouTube: How to create and resolves tickets within osTicket for Help Desk and System Administration](https://youtu.be/LGjsXd10vxc)
 
 <h2>Environments and Technologies Used</h2>
 
