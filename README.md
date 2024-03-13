@@ -55,13 +55,16 @@ Open ticket portal to create tickets.
 <img src="https://i.imgur.com/qHTHSoF.png"/>
 </p>
 <p>
-create ticket:A user or agent initiates the creation of a new ticket.
+Create ticket:A user or agent initiates the creation of a new ticket.
 This step captures information about the reported issue, such as description, category, and contact details..
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/RHno4JO.png"/>
+</p>
+p>
+<img src="https://i.imgur.com/7R4JIjZ.png"/>
 </p>
 <p>
 Access admin-agent panel to see new ticket.
