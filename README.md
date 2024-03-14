@@ -56,7 +56,7 @@ Open ticket portal to create tickets.
 </p>
 <p>
 Create ticket:A user or agent initiates the creation of a new ticket.
-This step captures information about the reported issue, such as description, category, and contact details..
+This step captures information about the reported issue, such as description, category, and contact details.
 </p>
 <br />
 
